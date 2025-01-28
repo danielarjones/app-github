@@ -1,4 +1,7 @@
 # MI APP DE GITUP
 
-Etoy empezando el mundo del **gato**
+Estoy empezando el mundo del **gato**
 
+**como mola 
+
+hola amigo
